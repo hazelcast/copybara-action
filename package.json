@@ -55,7 +55,7 @@
     "husky": "^4.3.0",
     "jest": "^24.9.0",
     "jest-circus": "^26.4.2",
-    "js-yaml": "^3.14.0",
+    "js-yaml": "^3.15.0",
     "lint-staged": ">=10",
     "prettier": "2.1.1",
     "tablemark": "^2.0.0",
